@@ -1,2 +1,2 @@
-<h1 align="center">Hello, I am</h1>
+<h1 align="center">My name is Wojciech</h1>
 <h3 align="center">Software engineer from Warsaw</h3>
