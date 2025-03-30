@@ -4,7 +4,7 @@ I am a software developer focused on getting things done and doing it right. I c
 
 ## 🏋🏻‍♀️ I work with:
 
-next, react, typescript, postgres, solidity, supabase, ethers, jest, docker, heroku, prisma, mocha, wagmi, web3.py, sentry, sqlalchemy, tanstack, aws, vite, vitest, graphql, protobuf, grpc, apollo, express, foundry, anvil, styled-components, tailwind, celery
+next, react, typescript, python, postgres, solidity, supabase, ethers, jest, docker, heroku, prisma, mocha, wagmi, web3.py, sentry, sqlalchemy, tanstack, aws, vite, vitest, graphql, protobuf, grpc, apollo, express, foundry, anvil, styled-components, tailwind, celery
 
 
 ## 🏆 Hackatons:
